@@ -17,6 +17,7 @@ What is Usage Data?
 
  How we use the information.
                          Our company uses information for several reasons and various purposes.
+                         
 
 To manage and maintain Our Service regularly
  To notify you about the changes made to our Service.
@@ -27,7 +28,7 @@ To detect Technical issues and make solutions instantly.
 Retaining of data 
              Our Company Retains some usage datas for internal analysis purposes. These datas vary between two types. One is for a shorter period of time and the other one is for a longer period. These longer period data storage may used for strengthening the  security from unidentified security breaches and to improve our Service functionalities for satisfy users. On the other hand Shorter periods may include Usage data.  
  
-Deletion of Data
+    Deletion of Data
                 Deletion of data leads to deleting all of your data i.e. After deletion User cannot access our service because the account will be fully terminated . In some cases there is an option, you can delete unwanted customers or vendor information.
 
 Third Party Disclosure
