@@ -1,5 +1,5 @@
 **Privacy Policy**
-
+Date: March 27 2023
 Welcome to Varuvaai. A SAAS based web and mobile application developed and maintained by Amizhth Techno Solutions private limited. Here we explain about our privacy policies ie. What data or information do we collect? How do we store the data and secure information? How we use the information. Being Transparent to your data privacy is more important to us. Hope this Policy page intends you to help to understand the terms. 
 
 Thus This Privacy Policy covers the information we collect about you when you use our products or services, if the user has any queries/questions can interact with us to know about data safety. These are separated into three categories may include Personal data, Usage Data, Cookies.
